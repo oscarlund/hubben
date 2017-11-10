@@ -35,7 +35,7 @@ p span {
   margin: 0 auto;
   /*text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);*/
   /* Clip Background Image */
-  background: url(animated.svg) repeat-y;
+  background: url(../img/animated.svg) repeat-y;
   -webkit-background-clip: text;
   background-clip: text;
   /* Animate Background Image */
